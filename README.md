@@ -1,4 +1,4 @@
-# Rails Simple Database YML with ENV
+# Rails Simple database.yml with ENV file
 
 ## Introduction
 - This code was created to manage and securely hide database configuration details for Rails applications.
